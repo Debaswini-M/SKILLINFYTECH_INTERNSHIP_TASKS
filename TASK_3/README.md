@@ -161,5 +161,3 @@ Sequential academic performance is the most influential factor in predicting fin
 
 ---
 
-**Mickey**  
-Machine Learning Enthusiast  
