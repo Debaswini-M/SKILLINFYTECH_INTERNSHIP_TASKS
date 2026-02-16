@@ -1,5 +1,9 @@
 # 🎓 Student Performance Prediction System
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Regression-orange.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+
 ---
 
 ## 📌 Project Overview
