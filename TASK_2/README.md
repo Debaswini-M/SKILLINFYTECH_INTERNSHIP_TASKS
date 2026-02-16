@@ -1,5 +1,11 @@
 # 🖼️Image Classification System (CIFAR-10)
 
+
+![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%7C%20Keras-blue)
+![Dataset](https://img.shields.io/badge/Dataset-CIFAR--10-orange)
+![Model Type](https://img.shields.io/badge/Model-CNN-red)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## 📌 Overview
 
 This project implements an Image Classification System using Convolutional Neural Networks (CNNs) to classify images from the CIFAR-10 dataset. The model is built from scratch using deep learning techniques and evaluated using accuracy metrics and a confusion matrix.
